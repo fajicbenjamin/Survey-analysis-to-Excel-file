@@ -6,6 +6,6 @@ Note that you can find 10 course example .txt files in this repository. Professo
 
 I included *dist* folder in which you can find compiled .jar version of this application. You can test it by putting in same folder executable file and courses .txt files. Then navigate to that directory and simply type in command line
 
-```java -jar Survey.jar```
+```java -jar "Survey.jar"```
 
 Also note that new folder will be created at same location where is the folder with application.
